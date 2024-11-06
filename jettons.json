@@ -2591,6 +2591,11 @@
   "symbol": "CROCO"
  },
  {
+  "address": "0:1b75e30a64ae5bcca53a928e9af70303a5b1223f02bf08e6bfdb41443dcb295d",
+  "name": "Cryptaskr",
+  "symbol": "CRT"
+ },
+ {
   "address": "0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4",
   "name": "Cute Cats",
   "symbol": "CuteCats"
